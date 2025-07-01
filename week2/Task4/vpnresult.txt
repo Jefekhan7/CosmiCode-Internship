@@ -1,0 +1,16 @@
+182.189.120.109{
+  "ip": "146.70.230.149",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0443,-118.2509",
+  "org": "AS9009 M247 Europe SRL",
+  "postal": "90014",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}PING google.com (142.250.189.14) 56(84) bytes of data.
+64 bytes from 142.250.189.14: icmp_seq=1 ttl=118 time=502 ms
+
+--- google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 501.539/501.539/501.539/0.000 ms

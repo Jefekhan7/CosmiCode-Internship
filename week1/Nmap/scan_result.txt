@@ -1,0 +1,76 @@
+
+nmap -sn 192.168.100.0/24
+
+
+**Output**
+
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-22 00:28 PKT
+
+Nmap scan report for 192.168.100.X1
+Host is up (0.0041s latency).
+MAC Address: XX:XX:XX:XX:XX:14 (Huawei Technologies)
+
+Nmap scan report for 192.168.100.X2
+Host is up (0.032s latency).
+MAC Address: XX:XX:XX:XX:XX:A9 (Intel Corporate)
+
+Nmap scan report for 192.168.100.X3
+Host is up (0.039s latency).
+MAC Address: XX:XX:XX:XX:XX:62 (Samsung Electronics)
+
+Nmap scan report for 192.168.100.X4
+Host is up (0.033s latency).
+MAC Address: XX:XX:XX:XX:XX:F7 (Unknown)
+
+Nmap scan report for 192.168.100.X5
+Host is up (0.14s latency).
+MAC Address: XX:XX:XX:XX:XX:18 (Unknown)
+
+Nmap scan report for 192.168.100.X6
+Host is up (0.064s latency).
+MAC Address: XX:XX:XX:XX:XX:78 (Unknown)
+
+Nmap scan report for 192.168.100.X7
+Host is up (0.072s latency).
+MAC Address: XX:XX:XX:XX:XX:6D (Hon Hai Precision Ind.)
+
+Nmap scan report for 192.168.100.X8
+Host is up (0.079s latency).
+MAC Address: XX:XX:XX:XX:XX:D6 (Unknown)
+
+Nmap scan report for 192.168.100.X9
+Host is up (0.0069s latency).
+MAC Address: XX:XX:XX:XX:XX:9C (Zhejiang Dahua Technology)
+
+Nmap scan report for 192.168.100.X10
+Host is up (0.15s latency).
+MAC Address: XX:XX:XX:XX:XX:83 (Unknown)
+
+Nmap scan report for 192.168.100.X11
+Host is up (0.064s latency).
+MAC Address: XX:XX:XX:XX:XX:D1 (Unknown)
+
+Nmap scan report for 192.168.100.X12
+Host is up (0.23s latency).
+MAC Address: XX:XX:XX:XX:XX:78 (Intel Corporate)
+
+Nmap scan report for 192.168.100.X13
+Host is up (0.00080s latency).
+MAC Address: XX:XX:XX:XX:XX:10 (Intel Corporate)
+
+Nmap scan report for 192.168.100.X14
+Host is up (0.11s latency).
+MAC Address: XX:XX:XX:XX:XX:F6 (Unknown)
+
+Nmap scan report for 192.168.100.X15
+Host is up (0.069s latency).
+MAC Address: XX:XX:XX:XX:XX:3A (Unknown)
+
+Nmap scan report for 192.168.100.X16
+Host is up (0.15s latency).
+MAC Address: XX:XX:XX:XX:XX:77 (Unknown)
+
+Nmap scan report for 192.168.100.X17
+Host is up.
+
+Nmap done: 256 IP addresses (17 hosts up) scanned in 4.26 seconds
